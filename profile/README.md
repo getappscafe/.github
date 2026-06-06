@@ -80,3 +80,23 @@ Start with a **15-day free trial** — no credit card required.
 ---
 
 <sub>© getapps.cafe — apps, served fresh. ☕</sub>
+
+---
+
+<!-- WEEKLY-REPORT-START -->
+## Recently shipping
+
+Week of **2026-06-06** — 26 releases across 7 apps. [Full report](REPORTS/2026-06-06.md)
+
+| App | Latest | Releases |
+|---|---|---:|
+| TorrentMilk | `v0.2.4` | 6 |
+| robu-stats | `v1.0.0` | 6 |
+| sheetcafe_sync | `v1.4.0` | 5 |
+| ebook_reader | `v0.3.0` | 3 |
+| video_converter | `v0.1.2` | 3 |
+| DripClean | `v1.1.1` | 2 |
+| doccafe | `v1.5.1` | 1 |
+
+[Archive →](REPORTS/)
+<!-- WEEKLY-REPORT-END -->
