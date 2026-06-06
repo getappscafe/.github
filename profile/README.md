@@ -90,13 +90,24 @@ Week of **2026-06-06** — 26 releases across 7 apps. [Full report](https://gith
 
 | App | Latest | Releases |
 |---|---|---:|
-| TorrentMilk | `v0.2.4` | 6 |
-| robu-stats | `v1.0.0` | 6 |
-| sheetcafe_sync | `v1.4.0` | 5 |
-| ebook_reader | `v0.3.0` | 3 |
-| video_converter | `v0.1.2` | 3 |
-| DripClean | `v1.1.1` | 2 |
-| doccafe | `v1.5.1` | 1 |
+| TorrentMilk | [`v0.2.4`](https://github.com/getappscafe/TorrentMilk/releases/tag/v0.2.4) | 6 |
+| robu-stats | [`v1.0.0`](https://github.com/getappscafe/robu-stats/releases/tag/v1.0.0) | 6 |
+| sheetcafe_sync | [`v1.4.0`](https://github.com/getappscafe/sheetcafe_sync/releases/tag/v1.4.0) | 5 |
+| ebook_reader | [`v0.3.0`](https://github.com/getappscafe/ebook_reader/releases/tag/v0.3.0) | 3 |
+| video_converter | [`v0.1.2`](https://github.com/getappscafe/video_converter/releases/tag/v0.1.2) | 3 |
+| DripClean | [`v1.1.1`](https://github.com/getappscafe/DripClean/releases/tag/v1.1.1) | 2 |
+| doccafe | [`v1.5.1`](https://github.com/getappscafe/doccafe/releases/tag/v1.5.1) | 1 |
 
 [Archive →](https://github.com/getappscafe/.github/tree/main/REPORTS)
+
+### Coming up
+
+| App | Last release | Last commit |
+|---|---|---|
+| [doccafe_sync](https://github.com/getappscafe/doccafe_sync) | _no release yet_ | 2026-06-06 |
+| [CreamShotX](https://github.com/getappscafe/CreamShotX) | _no release yet_ | 2026-06-06 |
+| [getappscafe](https://github.com/getappscafe/getappscafe) | _no release yet_ | 2026-06-05 |
+| [textshot](https://github.com/getappscafe/textshot) | _no release yet_ | 2026-06-05 |
+| [crema_picker](https://github.com/getappscafe/crema_picker) | _no release yet_ | 2026-06-05 |
+| [sheetcafe](https://github.com/getappscafe/sheetcafe) | _no release yet_ | 2026-06-04 |
 <!-- WEEKLY-REPORT-END -->
