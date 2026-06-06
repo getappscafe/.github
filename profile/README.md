@@ -86,7 +86,7 @@ Start with a **15-day free trial** — no credit card required.
 <!-- WEEKLY-REPORT-START -->
 ## Recently shipping
 
-Week of **2026-06-06** — 26 releases across 7 apps. [Full report](REPORTS/2026-06-06.md)
+Week of **2026-06-06** — 26 releases across 7 apps. [Full report](https://github.com/getappscafe/.github/blob/main/REPORTS/2026-06-06.md)
 
 | App | Latest | Releases |
 |---|---|---:|
@@ -98,5 +98,5 @@ Week of **2026-06-06** — 26 releases across 7 apps. [Full report](REPORTS/2026
 | DripClean | `v1.1.1` | 2 |
 | doccafe | `v1.5.1` | 1 |
 
-[Archive →](REPORTS/)
+[Archive →](https://github.com/getappscafe/.github/tree/main/REPORTS)
 <!-- WEEKLY-REPORT-END -->
