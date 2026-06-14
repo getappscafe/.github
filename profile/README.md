@@ -86,18 +86,18 @@ Start with a **15-day free trial** — no credit card required.
 <!-- WEEKLY-REPORT-START -->
 ## Recently shipping
 
-Week of **2026-06-13** — 21 releases across 9 apps. [Full report](https://github.com/getappscafe/.github/blob/main/REPORTS/2026-06-13.md)
+Week of **2026-06-14** — 25 releases across 12 apps. [Full report](https://github.com/getappscafe/.github/blob/main/REPORTS/2026-06-14.md)
 
 | App | Latest | Releases |
 |---|---|---:|
+| CreamRec | [`v0.4.0`](https://github.com/getappscafe/CreamRec/releases/tag/v0.4.0) | 4 |
 | CreamShotX | [`v0.5.0`](https://github.com/getappscafe/CreamShotX/releases/tag/v0.5.0) | 4 |
-| doccafe_sync | [`v1.9.3`](https://github.com/getappscafe/doccafe_sync/releases/tag/v1.9.3) | 4 |
-| CreamRec | [`v0.3.0`](https://github.com/getappscafe/CreamRec/releases/tag/v0.3.0) | 3 |
+| pdfcafe | [`v2.1.3`](https://github.com/getappscafe/pdfcafe/releases/tag/v2.1.3) | 3 |
+| textshot | [`v0.3.0`](https://github.com/getappscafe/textshot/releases/tag/v0.3.0) | 3 |
 | crema_picker | [`v0.2.0`](https://github.com/getappscafe/crema_picker/releases/tag/v0.2.0) | 2 |
 | pixpresso | [`v1.6.0`](https://github.com/getappscafe/pixpresso/releases/tag/v1.6.0) | 2 |
-| sheetcafe_sync | [`v1.5.1`](https://github.com/getappscafe/sheetcafe_sync/releases/tag/v1.5.1) | 2 |
-| textshot | [`v0.2.0`](https://github.com/getappscafe/textshot/releases/tag/v0.2.0) | 2 |
-| TorrentMilk | [`v0.3.0`](https://github.com/getappscafe/TorrentMilk/releases/tag/v0.3.0) | 1 |
+| pomolatte | [`v1.2.0`](https://github.com/getappscafe/pomolatte/releases/tag/v1.2.0) | 2 |
+| ClipShelf | [`v0.2.0`](https://github.com/getappscafe/ClipShelf/releases/tag/v0.2.0) | 1 |
 
 [Archive →](https://github.com/getappscafe/.github/tree/main/REPORTS)
 
@@ -105,10 +105,10 @@ Week of **2026-06-13** — 21 releases across 9 apps. [Full report](https://gith
 
 | App | Last release | Last commit |
 |---|---|---|
-| [getappscafe](https://github.com/getappscafe/getappscafe) | _no release yet_ | 2026-06-13 |
-| [pdfcafe](https://github.com/getappscafe/pdfcafe) | _no release yet_ | 2026-06-13 |
+| [getappscafe](https://github.com/getappscafe/getappscafe) | _no release yet_ | 2026-06-14 |
+| [ebook_reader](https://github.com/getappscafe/ebook_reader) | [`v0.3.0`](https://github.com/getappscafe/ebook_reader/releases/tag/v0.3.0) | 2026-06-14 |
+| [photo_bulk](https://github.com/getappscafe/photo_bulk) | _no release yet_ | 2026-06-14 |
 | [PhotoStudio](https://github.com/getappscafe/PhotoStudio) | _no release yet_ | 2026-06-13 |
 | [file_shipper](https://github.com/getappscafe/file_shipper) | _no release yet_ | 2026-06-13 |
-| [photo_bulk](https://github.com/getappscafe/photo_bulk) | _no release yet_ | 2026-06-12 |
-| [video_converter](https://github.com/getappscafe/video_converter) | [`v0.1.2`](https://github.com/getappscafe/video_converter/releases/tag/v0.1.2) | 2026-06-06 |
+| [sheetcafe_sync](https://github.com/getappscafe/sheetcafe_sync) | [`v1.5.1`](https://github.com/getappscafe/sheetcafe_sync/releases/tag/v1.5.1) | 2026-06-07 |
 <!-- WEEKLY-REPORT-END -->
