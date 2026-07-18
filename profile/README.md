@@ -86,18 +86,18 @@ Start with a **15-day free trial** — no credit card required.
 <!-- WEEKLY-REPORT-START -->
 ## Recently shipping
 
-Week of **2026-06-29** — 159 releases across 36 apps. [Full report](https://github.com/getappscafe/.github/blob/main/REPORTS/2026-06-29.md)
+Week of **2026-07-18** — 24 releases across 14 apps. [Full report](https://github.com/getappscafe/.github/blob/main/REPORTS/2026-07-18.md)
 
 | App | Latest | Releases |
 |---|---|---:|
-| TorrentMilk | [`v1.6.6`](https://github.com/getappscafe/TorrentMilk/releases/tag/v1.6.6) | 13 |
-| robu-stats | [`v1.5.0`](https://github.com/getappscafe/robu-stats/releases/tag/v1.5.0) | 9 |
-| sheetcafe_sync | [`v2.5.2`](https://github.com/getappscafe/sheetcafe_sync/releases/tag/v2.5.2) | 9 |
-| CreamRec | [`v1.5.0`](https://github.com/getappscafe/CreamRec/releases/tag/v1.5.0) | 8 |
-| CreamShotX | [`v1.5.0`](https://github.com/getappscafe/CreamShotX/releases/tag/v1.5.0) | 7 |
-| DripClean | [`v2.0.0`](https://github.com/getappscafe/DripClean/releases/tag/v2.0.0) | 7 |
-| doccafe_sync | [`v2.2.1`](https://github.com/getappscafe/doccafe_sync/releases/tag/v2.2.1) | 7 |
-| pdfcafe | [`v2.9.0`](https://github.com/getappscafe/pdfcafe/releases/tag/v2.9.0) | 7 |
+| crema_picker | [`v1.3.0`](https://github.com/getappscafe/crema_picker/releases/tag/v1.3.0) | 3 |
+| photo_bulk | [`v1.4.0`](https://github.com/getappscafe/photo_bulk/releases/tag/v1.4.0) | 3 |
+| BrewBim | [`v1.6.0`](https://github.com/getappscafe/BrewBim/releases/tag/v1.6.0) | 2 |
+| BrewKit | [`v1.8.0`](https://github.com/getappscafe/BrewKit/releases/tag/v1.8.0) | 2 |
+| CremaClear | [`v1.6.0`](https://github.com/getappscafe/CremaClear/releases/tag/v1.6.0) | 2 |
+| RetroFilter | [`v1.6.0`](https://github.com/getappscafe/RetroFilter/releases/tag/v1.6.0) | 2 |
+| ScreenMotion | [`v1.5.1`](https://github.com/getappscafe/ScreenMotion/releases/tag/v1.5.1) | 2 |
+| task_cafe | [`v1.5.7`](https://github.com/getappscafe/task_cafe/releases/tag/v1.5.7) | 2 |
 
 [Archive →](https://github.com/getappscafe/.github/tree/main/REPORTS)
 
@@ -105,8 +105,10 @@ Week of **2026-06-29** — 159 releases across 36 apps. [Full report](https://gi
 
 | App | Last release | Last commit |
 |---|---|---|
-| [slidecafe_sync](https://github.com/getappscafe/slidecafe_sync) | _no release yet_ | 2026-06-29 |
-| [barista](https://github.com/getappscafe/barista) | _no release yet_ | 2026-06-29 |
-| [getappscafe](https://github.com/getappscafe/getappscafe) | _no release yet_ | 2026-06-28 |
-| [sheetcafe](https://github.com/getappscafe/sheetcafe) | _no release yet_ | 2026-06-04 |
+| [getappscafe](https://github.com/getappscafe/getappscafe) | _no release yet_ | 2026-07-16 |
+| [MonitorControl](https://github.com/getappscafe/MonitorControl) | _no release yet_ | 2026-07-15 |
+| [MokaStudio](https://github.com/getappscafe/MokaStudio) | _no release yet_ | 2026-07-13 |
+| [getappscafe-rules](https://github.com/getappscafe/getappscafe-rules) | _no release yet_ | 2026-07-11 |
+| [band9](https://github.com/getappscafe/band9) | [`v1.9.0`](https://github.com/getappscafe/band9/releases/tag/v1.9.0) | 2026-07-09 |
+| [SnapBrew](https://github.com/getappscafe/SnapBrew) | [`v1.5.1`](https://github.com/getappscafe/SnapBrew/releases/tag/v1.5.1) | 2026-07-09 |
 <!-- WEEKLY-REPORT-END -->
