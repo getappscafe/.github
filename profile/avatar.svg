@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" role="img" aria-label="getapps.cafe">
+  <rect width="180" height="180" fill="#FAF6EF"/>
+  <g fill="none" stroke="#007AFF" stroke-width="10" stroke-linecap="round">
+    <!-- steam -->
+    <path d="M66.5 44 67.5 57"/>
+    <path d="M83.5 39 84.5 53"/>
+    <path d="M100.5 44 101.5 57"/>
+    <!-- handle -->
+    <circle cx="124" cy="98.5" r="11"/>
+    <!-- cup -->
+    <path d="M51 73V112A23 23 0 0 0 74 135H90A23 23 0 0 0 113 112V73A1 1 0 0 0 112 72H52A1 1 0 0 0 51 73Z"/>
+  </g>
+</svg>

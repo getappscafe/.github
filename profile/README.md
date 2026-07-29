@@ -1,60 +1,62 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/avatar.png" width="120" alt="getapps.cafe">
+
 # getapps.cafe
 
 **apps, served fresh ☕**
 
-Your daily app café — one subscription, sixty apps. We hand-pick the best
-software for macOS and Windows and serve it like specialty coffee: by mood,
-by ritual, by craft.
+One subscription, 60+ hand-picked apps for macOS and Windows.<br>
+Served like specialty coffee — by mood, by ritual, by craft.
+
+[**Browse the menu →**](https://getapps.cafe)
+
+</div>
 
 ---
 
-## What we serve
+## The menu
 
-One subscription unlocks our full library, organized into thoughtfully
-curated collections.
-
-### ☕ Espresso — quick utilities for a fast pick-me-up
+**☕ Espresso** — quick utilities for a fast pick-me-up
 
 | App | What it does |
 | --- | --- |
-| **DripCleaner** | Clean junk, free up memory, and speed up your PC. |
+| **DripCleaner** | Clean junk, free up memory, speed up your PC. |
 | **Pixpresso** | Crop, resize, and annotate images — no Photoshop needed. |
 | **StickyBoard** | A cozy desktop board for your sticky notes. |
-| **RobuStats** | Monitor CPU, GPU, memory, network & battery at a glance. `🔜 Coming soon` |
-| **TextShot** | Capture any text on screen by selecting an area. `🔜 Coming soon` |
+| **RobuStats** | Monitor CPU, GPU, memory, network & battery at a glance. `🔜` |
+| **TextShot** | Capture any text on screen by selecting an area. `🔜` |
 
-### 🥛 Latte — the daily essentials you reach for again and again
+**🥛 Latte** — the daily essentials you reach for again and again
 
 | App | What it does |
 | --- | --- |
 | **DocCafe** | A small, focused DOCX editor. Open, edit, save. |
-| **PDFCup** | Open, edit, annotate, sign, and export PDFs. `🔜 Coming soon` |
-| **SheetCafe** | A small, focused XLSX editor for spreadsheets. `🔜 Coming soon` |
-| **TorrentMilk** | Download and watch torrents at the same time. `🔜 Coming soon` |
+| **PDFCup** | Open, edit, annotate, sign, and export PDFs. `🔜` |
+| **SheetCafe** | A small, focused XLSX editor for spreadsheets. `🔜` |
+| **TorrentMilk** | Download and watch torrents at the same time. `🔜` |
 
-### 🧊 Cold Brew — apps for deep focus and deliberate work
+**🧊 Cold Brew** — for deep focus and deliberate work
 
 | App | What it does |
 | --- | --- |
 | **BrewReader** | Open EPUB, MOBI & more. Organize your library, read your way. |
 | **Brewser** | A lightweight browser. Blocks ads, downloads videos. |
-| **ClipBrew** | Never lose a copy again — your clipboard history, always at hand. |
+| **ClipBrew** | Never lose a copy again — clipboard history, always at hand. |
 
-### 🍵 Matcha — wellness tools to keep you balanced
+**🍵 Matcha** — wellness tools to keep you balanced
 
 | App | What it does |
 | --- | --- |
 | **MindNote** | Mind maps for knowledge workers. Think in maps, capture in seconds. |
 
-### 💧 Pour Over — precision tools for when details matter
+**💧 Pour Over** — precision tools for when details matter
 
 | App | What it does |
 | --- | --- |
-| **VideoRoast** | Convert & compress video between popular formats. `🔜 Coming soon` |
+| **VideoRoast** | Convert & compress video between popular formats. `🔜` |
 
-_…and 60+ apps in total. See the full menu → [getapps.cafe](https://getapps.cafe)_
-
-Every plan includes all premium apps and future updates.
+<sub>`🔜` = coming soon · full library of 60+ apps at [getapps.cafe](https://getapps.cafe)</sub>
 
 ## Plans
 
@@ -63,6 +65,7 @@ Every plan includes all premium apps and future updates.
 | **Solo Cup** | $9.99/mo | 1 device |
 | **Family Roast** | $14.99/mo | up to 5 devices, priority support |
 
+Every plan includes all premium apps and future updates.
 Start with a **15-day free trial** — no credit card required.
 
 ## Why getapps.cafe
@@ -73,9 +76,7 @@ Start with a **15-day free trial** — no credit card required.
 
 ## Get in touch
 
-- 🌐 Website — [getapps.cafe](https://getapps.cafe)
-- ✉️ Support — [contact@getapps.cafe](mailto:contact@getapps.cafe)
-- 💬 Open an issue or discussion in any of our repositories
+🌐 [getapps.cafe](https://getapps.cafe) · ✉️ [contact@getapps.cafe](mailto:contact@getapps.cafe) · 💬 open an issue in any of our repos
 
 ---
 
