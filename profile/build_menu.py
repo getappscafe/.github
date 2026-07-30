@@ -34,6 +34,11 @@ K = 1 / 3                                           # isometric shear: 1 down pe
 # Poster showcase, front panel first. Only some apps ship screenshots; these do.
 SHOWCASE = ["doccafe", "lofilatte", "brewser", "nitronet", "stickyboard", "sheetcafe"]
 
+# Apps we serve free that the live site still files as paid. Handled the way the
+# site already handles FileShipper: listed under On the House *and* kept in their
+# own category. Delete entries here once the site itself moves them.
+FREE_EXTRA = ["torrentmilk", "pixpresso"]
+
 # Straight from getapps.cafe/styles.css — :root and :root[data-theme="dark"].
 # Keep these in sync with the site rather than inventing values.
 THEMES = {
@@ -214,9 +219,21 @@ def build_poster(shots, name, t):
     img.save(HERE / name, optimize=True)
 
 
-def render(cats):
+def apply_free(cats):
+    """Add FREE_EXTRA apps to On the House. Returns the full set of free slugs."""
+    house = next((c for c in cats if c["cid"] == "house"), None)
+    assert house, "no On the House section — site markup changed"
+    by_slug = {a["slug"]: a for c in cats for a in c["apps"]}
+    for slug in FREE_EXTRA:
+        assert slug in by_slug, f"{slug} is not on the menu — check the slug"
+        if slug not in {a["slug"] for a in house["apps"]}:
+            house["apps"].append(dict(by_slug[slug]))
+    return {a["slug"] for a in house["apps"]}
+
+
+def render(cats, free):
     def cell(a):
-        label = a["name"] + (" 🔜" if a["coming"] else "")
+        label = a["name"] + (" 🔜" if a["coming"] else " 🆓" if a["slug"] in free else "")
         img = (f'<img src="{RAW}/icons/{a["slug"]}.png" width="52" alt="{a["name"]}">'
                f"<br><sub><b>{label}</b></sub>")
         inner = img if a["coming"] else f'<a href="{SITE}/app/{a["slug"]}">{img}</a>'
@@ -238,6 +255,7 @@ def render(cats):
 
 def main():
     cats = scrape()
+    free = apply_free(cats)
     slugs = fetch_icons(cats)
     names = {a["slug"]: a["name"] for c in cats for a in c["apps"]}
     shots = fetch_shots(names)
@@ -246,7 +264,7 @@ def main():
     readme = HERE / "README.md"
     body = readme.read_text()
     new, n = re.subn(r"(?<=<!-- MENU-START -->\n).*?(?=<!-- MENU-END -->)",
-                     render(cats) + "\n", body, flags=re.S)
+                     render(cats, free) + "\n", body, flags=re.S)
     assert n == 1, "MENU-START/END markers missing from README.md"
     readme.write_text(new)
     total = sum(len(c["apps"]) for c in cats)

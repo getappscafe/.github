@@ -32,10 +32,10 @@ specialty coffee: by mood, by ritual, by craft. Order what fits your day.
 <!-- MENU-START -->
 ### 🎁 On the House
 
-<sub>Free Apps · 1 app</sub>
+<sub>Free Apps · 3 apps</sub>
 
 <table>
-<tr><td align="center" width="105"><a href="https://getapps.cafe/app/fileshipper"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/fileshipper.png" width="52" alt="FileShipper"><br><sub><b>FileShipper</b></sub></a></td><td width="105"></td><td width="105"></td><td width="105"></td><td width="105"></td><td width="105"></td></tr>
+<tr><td align="center" width="105"><a href="https://getapps.cafe/app/torrentmilk"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/torrentmilk.png" width="52" alt="TorrentMilk"><br><sub><b>TorrentMilk 🆓</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/fileshipper"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/fileshipper.png" width="52" alt="FileShipper"><br><sub><b>FileShipper 🆓</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/pixpresso"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/pixpresso.png" width="52" alt="Pixpresso"><br><sub><b>Pixpresso 🆓</b></sub></a></td><td width="105"></td><td width="105"></td><td width="105"></td></tr>
 </table>
 
 ### ☕ Espresso
@@ -62,7 +62,7 @@ specialty coffee: by mood, by ritual, by craft. Order what fits your day.
 
 <table>
 <tr><td align="center" width="105"><a href="https://getapps.cafe/app/cremastudio"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/cremastudio.png" width="52" alt="CremaStudio"><br><sub><b>CremaStudio</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/screenmotion"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/screenmotion.png" width="52" alt="ScreenMotion"><br><sub><b>ScreenMotion</b></sub></a></td><td align="center" width="105"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/vectorstudio.png" width="52" alt="VectorStudio"><br><sub><b>VectorStudio 🔜</b></sub></td><td align="center" width="105"><a href="https://getapps.cafe/app/designbrew"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/designbrew.png" width="52" alt="DesignBrew"><br><sub><b>DesignBrew</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/brewcad"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/brewcad.png" width="52" alt="BrewCAD"><br><sub><b>BrewCAD</b></sub></a></td><td align="center" width="105"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/mokastudio.png" width="52" alt="MokaStudio"><br><sub><b>MokaStudio 🔜</b></sub></td></tr>
-<tr><td align="center" width="105"><a href="https://getapps.cafe/app/brewbim"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/brewbim.png" width="52" alt="BrewBIM"><br><sub><b>BrewBIM</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/pixpresso"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/pixpresso.png" width="52" alt="Pixpresso"><br><sub><b>Pixpresso</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/resumeroast"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/resumeroast.png" width="52" alt="ResumeRoast"><br><sub><b>ResumeRoast</b></sub></a></td><td width="105"></td><td width="105"></td><td width="105"></td></tr>
+<tr><td align="center" width="105"><a href="https://getapps.cafe/app/brewbim"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/brewbim.png" width="52" alt="BrewBIM"><br><sub><b>BrewBIM</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/pixpresso"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/pixpresso.png" width="52" alt="Pixpresso"><br><sub><b>Pixpresso 🆓</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/resumeroast"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/resumeroast.png" width="52" alt="ResumeRoast"><br><sub><b>ResumeRoast</b></sub></a></td><td width="105"></td><td width="105"></td><td width="105"></td></tr>
 </table>
 
 ### 🫘 Americano
@@ -87,7 +87,7 @@ specialty coffee: by mood, by ritual, by craft. Order what fits your day.
 <sub>Connectivity & Data Tools · 6 apps</sub>
 
 <table>
-<tr><td align="center" width="105"><a href="https://getapps.cafe/app/torrentmilk"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/torrentmilk.png" width="52" alt="TorrentMilk"><br><sub><b>TorrentMilk</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/fileshipper"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/fileshipper.png" width="52" alt="FileShipper"><br><sub><b>FileShipper</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/nitrofeed"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/nitrofeed.png" width="52" alt="NitroFeed"><br><sub><b>NitroFeed</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/brewser"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/brewser.png" width="52" alt="Brewser"><br><sub><b>Brewser</b></sub></a></td><td align="center" width="105"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/chatcafe.png" width="52" alt="ChatCafe"><br><sub><b>ChatCafe 🔜</b></sub></td><td align="center" width="105"><a href="https://getapps.cafe/app/nitronet"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/nitronet.png" width="52" alt="NitroNet"><br><sub><b>NitroNet</b></sub></a></td></tr>
+<tr><td align="center" width="105"><a href="https://getapps.cafe/app/torrentmilk"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/torrentmilk.png" width="52" alt="TorrentMilk"><br><sub><b>TorrentMilk 🆓</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/fileshipper"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/fileshipper.png" width="52" alt="FileShipper"><br><sub><b>FileShipper 🆓</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/nitrofeed"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/nitrofeed.png" width="52" alt="NitroFeed"><br><sub><b>NitroFeed</b></sub></a></td><td align="center" width="105"><a href="https://getapps.cafe/app/brewser"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/brewser.png" width="52" alt="Brewser"><br><sub><b>Brewser</b></sub></a></td><td align="center" width="105"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/chatcafe.png" width="52" alt="ChatCafe"><br><sub><b>ChatCafe 🔜</b></sub></td><td align="center" width="105"><a href="https://getapps.cafe/app/nitronet"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/icons/nitronet.png" width="52" alt="NitroNet"><br><sub><b>NitroNet</b></sub></a></td></tr>
 </table>
 
 ### 💧 Pour Over
@@ -101,7 +101,7 @@ specialty coffee: by mood, by ritual, by craft. Order what fits your day.
 
 <!-- MENU-END -->
 
-<sub>🔜 = coming soon · every app is native, local-first, and a real desktop app — not a web wrapper</sub>
+<sub>🆓 = free, no subscription needed · 🔜 = coming soon · every app is native, local-first, and a real desktop app — not a web wrapper</sub>
 
 ---
 
@@ -125,7 +125,7 @@ Every app on the menu, every update, every device on your plan.
 
 </div>
 
-> Buying the 52 paid apps one at a time costs **$259**.<br>
+> Buying the paid apps one at a time costs **$254**.<br>
 > On Family Roast the whole menu is **$1.60/month per device** — and every app we add later is included.
 
 ---

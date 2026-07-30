@@ -20,6 +20,11 @@ The poster showcases the apps listed in `SHOWCASE`. Only some apps publish UI
 screenshots, so that list can only be drawn from those — the script fails loudly
 if a chosen app has none.
 
+`FREE_EXTRA` lists apps we serve free that the site still files as paid. They get
+added to **On the House** and marked 🆓 while staying in their own category — the
+same "derived row" convention the site uses. Remove an entry once the site itself
+moves the app, or the override becomes a silent no-op.
+
 ## Updating the menu
 
 When apps are added, renamed, or ship out of "coming soon", rerun:
