@@ -125,7 +125,6 @@ Every app on the menu, every update, every device on your plan.
 
 </div>
 
-> Buying the paid apps one at a time costs **$254**.<br>
 > On Family Roast the whole menu is **$1.60/month per device** — and every app we add later is included.
 
 ---
