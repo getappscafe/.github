@@ -11,12 +11,15 @@
 We hand-pick the best apps for macOS and Windows and serve them like<br>
 specialty coffee: by mood, by ritual, by craft. Order what fits your day.
 
-[![apps](https://img.shields.io/badge/apps-57-007AFF?style=for-the-badge&labelColor=2b2b2b)](https://getapps.cafe)
+[![apps](https://img.shields.io/badge/all%20apps%20included-007AFF?style=for-the-badge&labelColor=2b2b2b)](https://getapps.cafe)
 [![platforms](https://img.shields.io/badge/macOS%20%26%20Windows-007AFF?style=for-the-badge&labelColor=2b2b2b)](https://getapps.cafe)
 [![from](https://img.shields.io/badge/from%20%244.99%2Fmo-007AFF?style=for-the-badge&labelColor=2b2b2b)](https://getapps.cafe/#pricing)
 [![trial](https://img.shields.io/badge/7--day%20free%20trial-007AFF?style=for-the-badge&labelColor=2b2b2b)](https://getapps.cafe)
 
-<a href="https://getapps.cafe"><img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/menu.png" width="820" alt="The getapps.cafe menu — 57 native apps for macOS and Windows"></a>
+<a href="https://getapps.cafe"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getappscafe/.github/main/profile/poster-dark.png">
+<img src="https://raw.githubusercontent.com/getappscafe/.github/main/profile/poster.png" width="860" alt="The getapps.cafe menu — every native app for macOS and Windows, as isometric blocks">
+</picture></a>
 
 **[Browse the menu →](https://getapps.cafe)**  ·  [Pricing](https://getapps.cafe/#pricing)  ·  [Blog](https://getapps.cafe/blog)  ·  [Support](https://getapps.cafe/support)
 
